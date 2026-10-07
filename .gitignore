@@ -1,0 +1,13 @@
+.venv/
+.local-libs/
+__pycache__/
+*.pyc
+data/*
+models/*
+!models/README.md
+ios/Models/*
+!ios/Models/README.md
+build/
+dist/
+*.spec
+/:memory:.ses
